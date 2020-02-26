@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 第112天：Python 到底是值传递还是引用传递
-category: python
-copyright: python
+category: java
+copyright: java
 ---
 
  by 豆豆
